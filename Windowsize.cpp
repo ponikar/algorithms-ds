@@ -10,6 +10,7 @@ int main() {
     int j = size - 1;
 
     vector<int> max_array;
+    int name;
 
     for(int i = 0; i < n; i++) {
         if(j < n) {
